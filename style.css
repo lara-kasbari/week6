@@ -1,0 +1,28 @@
+/* CSS files add styling rules to your content */
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+
+body {
+  margin: 2em;
+  background-color: #d5ddef;
+}
+
+h1 {
+  color: #4c394f
+;
+  font-family: "Yellowtail", cursive;
+  text-align: center;
+}
+
+p{
+  text-align:center;
+}
+#kitten {
+  width: 600px;
+  height:375px;
+
+}
+
+.image-container {
+  
+  text-align:center;
+}
